@@ -174,14 +174,17 @@ section{
 .aqilah{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     display: block;
-    text-align: center;
     justify-content: center;
+    text-align: center;
     padding: 20px;
     border-radius: 20px;
     font-size: 20px;
     font-family:'Poppins', sans-serif ;
 }
-
+.aqilah-summary ul li a{
+    line-height: 2.5vh;
+    text-align: left;
+}
 .aqilah a{
     flex-grow: 1;
     text-decoration: none;
